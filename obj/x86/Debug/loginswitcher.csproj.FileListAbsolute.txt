@@ -1,0 +1,7 @@
+C:\hg\loginswitcher\bin\Debug\loginswitcher.exe
+C:\hg\loginswitcher\bin\Debug\loginswitcher.pdb
+C:\hg\loginswitcher\obj\x86\Debug\loginswitcher.csprojResolveAssemblyReference.cache
+C:\hg\loginswitcher\obj\x86\Debug\loginswitcher.exe
+C:\hg\loginswitcher\obj\x86\Debug\loginswitcher.pdb
+C:\hg\loginswitcher\obj\x86\Debug\loginswitcher.ProjectInstaller.resources
+C:\hg\loginswitcher\obj\x86\Debug\loginswitcher.csproj.GenerateResource.Cache

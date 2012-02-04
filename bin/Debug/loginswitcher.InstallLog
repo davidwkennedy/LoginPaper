@@ -1,0 +1,73 @@
+﻿Installing assembly 'C:\hg\Loginswitcher\bin\debug\loginswitcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\hg\Loginswitcher\bin\debug\loginswitcher.InstallLog
+   assemblypath = C:\hg\Loginswitcher\bin\debug\loginswitcher.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\hg\Loginswitcher\bin\debug\loginswitcher.exe assembly.
+Committing assembly 'C:\hg\Loginswitcher\bin\debug\loginswitcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\hg\Loginswitcher\bin\debug\loginswitcher.InstallLog
+   assemblypath = C:\hg\Loginswitcher\bin\debug\loginswitcher.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\hg\Loginswitcher\bin\debug\loginswitcher.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\hg\Loginswitcher\bin\debug\loginswitcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\hg\Loginswitcher\bin\debug\loginswitcher.InstallLog
+   assemblypath = C:\hg\Loginswitcher\bin\debug\loginswitcher.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\hg\Loginswitcher\bin\debug\loginswitcher.exe assembly.
+Committing assembly 'C:\hg\Loginswitcher\bin\debug\loginswitcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\hg\Loginswitcher\bin\debug\loginswitcher.InstallLog
+   assemblypath = C:\hg\Loginswitcher\bin\debug\loginswitcher.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\hg\Loginswitcher\bin\debug\loginswitcher.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\hg\Loginswitcher\bin\debug\loginswitcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\hg\Loginswitcher\bin\debug\loginswitcher.InstallLog
+   assemblypath = C:\hg\Loginswitcher\bin\debug\loginswitcher.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\hg\Loginswitcher\bin\debug\loginswitcher.exe assembly.
+Committing assembly 'C:\hg\Loginswitcher\bin\debug\loginswitcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\hg\Loginswitcher\bin\debug\loginswitcher.InstallLog
+   assemblypath = C:\hg\Loginswitcher\bin\debug\loginswitcher.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\hg\Loginswitcher\bin\debug\loginswitcher.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'c:\hg\loginswitcher\bin\debug\loginswitcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = c:\hg\loginswitcher\bin\debug\loginswitcher.exe
+   logfile = c:\hg\loginswitcher\bin\debug\loginswitcher.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the c:\hg\loginswitcher\bin\debug\loginswitcher.exe assembly.
+Committing assembly 'c:\hg\loginswitcher\bin\debug\loginswitcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = c:\hg\loginswitcher\bin\debug\loginswitcher.exe
+   logfile = c:\hg\loginswitcher\bin\debug\loginswitcher.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the c:\hg\loginswitcher\bin\debug\loginswitcher.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'c:\hg\loginswitcher\bin\debug\loginswitcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = c:\hg\loginswitcher\bin\debug\loginswitcher.exe
+   logfile = c:\hg\loginswitcher\bin\debug\loginswitcher.InstallLog
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'c:\hg\loginswitcher\bin\debug\loginswitcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = c:\hg\loginswitcher\bin\debug\loginswitcher.exe
+   logfile = c:\hg\loginswitcher\bin\debug\loginswitcher.InstallLog
+Uninstalling assembly 'c:\hg\loginswitcher\bin\debug\loginswitcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = c:\hg\loginswitcher\bin\debug\loginswitcher.exe
+   logfile = c:\hg\loginswitcher\bin\debug\loginswitcher.InstallLog
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
