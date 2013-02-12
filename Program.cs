@@ -4,6 +4,8 @@ using System.Linq;
 using System.ServiceProcess;
 using System.Text;
 
+// DELETE: Testing Edit Mode In GitHub
+
 namespace loginswitcher
 {
     static class Program
